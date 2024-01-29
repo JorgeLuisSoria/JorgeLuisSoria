@@ -3,8 +3,6 @@
 ❤ I love continuous learning that being a programmer provides.<br>
 ✅ Empathetic, Results Oriented, Customer Driven, Analytical Thinker.
 
-- 🔭 I’m currently working on personal projects developed on HTML5, CSS3, JS and ReactJS.
-- 🌎 Nowdays I'm studying at OpenBootCamp (Spain) and I'm training at Oracle Next Education (Brazil).
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love play soccer.
 
